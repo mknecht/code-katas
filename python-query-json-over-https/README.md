@@ -2,7 +2,7 @@
 
 Write a basic command-line script to extract parts of the ReviewBoards REST-API.
 
-    $ ./solution.py https://www.reviewboard.org/api/store/categories/ >links.self.method
+    $ ./solution.py https://www.reviewboard.org/api/store/categories/ links.self.method
 	'GET'
     $ ./solution.py https://www.reviewboard.org/api/store/categories/ store_categories[0].name
 	'Extensions'
