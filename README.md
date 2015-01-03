@@ -13,3 +13,9 @@ Query a JSON resource over HTTP, evaluate a query and prettyprint the result.
 [python-query-json-over-https](https://github.com/mknecht/code-katas/blob/master/python-query-json-over-https/README.md)
 
 Current time: 5:15  (goal: < 5 min)
+
+# Other places to look for katas
+
+* [Emily Bache](https://github.com/emilybache) has a few katas in diverse languages to look at. (Haven't tried yet.)
+* [checkio](http://www.checkio.org/) tasks may be appropriately sized tasks (once you know what to do), though one can argue the relevancy. 
+* The [cyber dojo](http://cyber-dojo.org/) has tons of tasks.
