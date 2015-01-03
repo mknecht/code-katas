@@ -12,4 +12,4 @@ Query a JSON resource over HTTP, evaluate a query and prettyprint the result.
 
 [python-query-json-over-https](https://github.com/mknecht/code-katas/blob/master/python-query-json-over-https/README.md)
 
-Current time: 6:05  (goal: < 5 min)
+Current time: 5:15  (goal: < 5 min)
